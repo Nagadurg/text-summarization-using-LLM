@@ -1,5 +1,5 @@
 # Text-summarization-using-LLM
-## AIM:  TO explore how LLMs can enhance the accuracy and efficiency of summarizing extensive text data
+## AIM:  To explore how LLMs can enhance the accuracy and efficiency of summarizing extensive text data
 ## Algorithm
 
  Step1: Import the necessary libraries and load a pre-trained open-source LLM from a repository such as Hugging Face's Transformers.
@@ -99,7 +99,9 @@ docs[0]
 
 <img width="909" alt="image" src="https://github.com/user-attachments/assets/0cf92428-2ac5-4093-b4f2-28909b2d0316">
 
+
 <img width="889" alt="image" src="https://github.com/user-attachments/assets/0ea1456f-c140-472c-896e-582b61315954">
+
 
 ## Fundamental rights textbook summarization
 
