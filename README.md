@@ -1,7 +1,8 @@
 # Text-summarization-using-LLM
 ## AIM:  TO explore how LLMs can enhance the accuracy and efficiency of summarizing extensive text data
 ## Algorithm
-# Step1: Import the necessary libraries and load a pre-trained open-source LLM from a repository such as Hugging Face's Transformers.
+
+### Step1: Import the necessary libraries and load a pre-trained open-source LLM from a repository such as Hugging Face's Transformers.
 
 ### Step2: Clean and preprocess the text data to ensure it's in a suitable format for the model (e.g., tokenizing the text, handling special characters).
 
