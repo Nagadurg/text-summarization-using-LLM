@@ -91,3 +91,14 @@ docs = loader.load()
 print(len(docs))
 docs[0]
 ```
+# Output
+![image](https://github.com/user-attachments/assets/26759312-83df-4ff7-a9b3-7b1ce20cd604)
+
+![image](https://github.com/user-attachments/assets/f9a3fec1-5296-4f09-acd3-23d8cd284aba)
+
+![image](https://github.com/user-attachments/assets/1637c15b-9fae-4cb3-8d9c-aa198e695e61)
+
+![image](https://github.com/user-attachments/assets/f39bc78a-0c84-4f40-bd40-7776d8e8a4ea)
+
+
+
