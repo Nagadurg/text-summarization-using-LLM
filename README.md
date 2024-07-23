@@ -52,7 +52,7 @@ llm = HuggingFacePipeline(pipeline=text_generation_pipeline)
 
 from langchain_community.document_loaders import PyPDFLoader
 
-loader = PyPDFLoader("/content/R Hemapriya resume.pdf")
+loader = PyPDFLoader("/content/nagadurga resume-2.pdf")
 docs = loader.load()
 
 # Check if the issue is resolved. If not, you may need to investigate further
@@ -85,20 +85,25 @@ print(stuff_chain.run(docs))
 !pip install pypdf
 from langchain.chains.summarize import load_summarize_chain
 from langchain_community.document_loaders import PyPDFLoader
-
 loader = PyPDFLoader("/content/fundamental rights.pdf")
 docs = loader.load()
 print(len(docs))
 docs[0]
 ```
 # Output
-![image](https://github.com/user-attachments/assets/26759312-83df-4ff7-a9b3-7b1ce20cd604)
+## Resume summarization
 
-![image](https://github.com/user-attachments/assets/f9a3fec1-5296-4f09-acd3-23d8cd284aba)
+<img width="659" alt="image" src="https://github.com/user-attachments/assets/9477b672-cac7-40f7-b209-d80a78fe9211">
 
-![image](https://github.com/user-attachments/assets/1637c15b-9fae-4cb3-8d9c-aa198e695e61)
+### PDF meta data and content extraction
 
-![image](https://github.com/user-attachments/assets/f39bc78a-0c84-4f40-bd40-7776d8e8a4ea)
+<img width="909" alt="image" src="https://github.com/user-attachments/assets/0cf92428-2ac5-4093-b4f2-28909b2d0316">
+
+<img width="889" alt="image" src="https://github.com/user-attachments/assets/0ea1456f-c140-472c-896e-582b61315954">
+
+## Fundamental rights textbook summarization
+
+<img width="893" alt="image" src="https://github.com/user-attachments/assets/9a76d477-3b9d-4750-a76b-1d4be864cf0e">
 
 
 
