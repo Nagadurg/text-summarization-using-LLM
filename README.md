@@ -107,5 +107,7 @@ docs[0]
 
 <img width="893" alt="image" src="https://github.com/user-attachments/assets/9a76d477-3b9d-4750-a76b-1d4be864cf0e">
 
+# Result
+Thus,Large Language Models (LLMs) effectively summarize resumes by highlighting key skills and experiences, and textbooks by condensing main concepts and themes, improving readability and comprehension.
 
 
